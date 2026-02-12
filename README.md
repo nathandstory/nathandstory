@@ -9,7 +9,7 @@ I enjoy systems that integrate hardware, software, and physical infrastructure. 
 * **Agricultural Systems:** Pesticide Application Calibration, Irrigation Infrastructure, and Zone 6 Food Forest Management.
 * **Physical Construction:** Plumbing, Electrical, Tiling, Carpentry and a bunch of other stuff.
 
-### Key Projects
+### Fun Projects (so far)
 * **Inductive Current Transducer:** Designed a non-invasive current sensor utilizing a gapped ferrite toroid and an LM393 Hall Effect sensor. Developed a calibration model to translate magnetic flux into real-time amperage readings.
 * **Ag-Infrastructure & Automation:** Managed the design and construction of agricultural housing and systems. 
 * **Zone 6 Food Forest:** Management of a 30-cultivar perennial system focused on species diversity and sustainable agricultural practices.
