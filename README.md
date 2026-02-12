@@ -17,6 +17,6 @@ I enjoy systems that integrate hardware, software, and physical infrastructure. 
 
 ### Education & Credentials
 * **University of Missouri:** B.S. in Agricultural Systems Technology.
-* **Missouri S&T:** Engineering coursework.
+* **Missouri S&T:** Engineering coursework for two years before deciding to switch to agriculture focus. 
 * **St. Charles Community College:** Associate of Science.
 * **Certification:** Private Pesticide Applicator (Missouri Dept. of Ag).
