@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there, I'm Nathan Story
+**Agricultural Systems Technology | University of Missouri**
 
-<!--
-**nathandstory/nathandstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy systems that integrate hardware, software, and physical infrastructure. My background covers construction, agricultural sciences, and computer systems.
 
-Here are some ideas to get you started:
+### Technical Skills
+* **Programming:** Java, JavaScript, C++, SQL, Python.
+* **Automation & Sensors:** Arduino, Hall Effect Transducers, Linear Regression Modeling, and Home Assistant.
+* **Agricultural Systems:** Pesticide Application Calibration, Irrigation Infrastructure, and Zone 6 Food Forest Management.
+* **Physical Construction:** Plumbing, Electrical, Tiling, Carpentry and a bunch of other stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+* **Inductive Current Transducer:** Designed a non-invasive current sensor utilizing a gapped ferrite toroid and an LM393 Hall Effect sensor. Developed a calibration model to translate magnetic flux into real-time amperage readings.
+* **Ag-Infrastructure & Automation:** Managed the design and construction of agricultural housing and systems. 
+* **Zone 6 Food Forest:** Management of a 30-cultivar perennial system focused on species diversity and sustainable agricultural practices.
+* **Software Development:** Created custom plugins via the Spigot API (Java) and reputation databases using Node.js and SQLite3.
+
+### Education & Credentials
+* **University of Missouri:** B.S. in Agricultural Systems Technology.
+* **Missouri S&T:** Engineering coursework.
+* **St. Charles Community College:** Associate of Science.
+* **Certification:** Private Pesticide Applicator (Missouri Dept. of Ag).
