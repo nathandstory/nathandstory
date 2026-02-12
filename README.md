@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Nathan Story
 **Agricultural Systems Technology | University of Missouri**
 
-I enjoy systems that integrate hardware, software, and physical infrastructure. My background covers construction, agricultural sciences, and computer systems.
+I enjoy systems that integrate hardware, software, and physical infrastructure. I enjoy compex pipelines that connect data together. My background covers construction, agricultural sciences, and computer systems. I really like factory management games like factorio :)
 
 ### Technical Skills
 * **Programming:** Java, JavaScript, C++, SQL, Python.
